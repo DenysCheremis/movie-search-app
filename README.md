@@ -15,10 +15,10 @@ This is a simple web application that allows users to find information about mov
 
 **Technologies Used**
 
-•HTML
-•CSS
-•JavaScript
-•Utilizes the OMDb API
+ • HTML
+ • CSS
+ • JavaScript
+ • Utilizes the OMDb API
 
 
 **Usage**
