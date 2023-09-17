@@ -8,14 +8,20 @@ This is a simple web application that allows users to find information about mov
 
 
 **Features**
+
 • Enter the title of a movie and click the "Search" button to retrieve information about the movie.
+
 • You will see comprehensive details about the movie, including its IMDb rating, genre, release year, duration, and much more.
 
 
 **Technologies Used**
+
 • HTML
+
 • CSS
+
 • JavaScript
+
 • Utilizes the OMDb API
 
 
