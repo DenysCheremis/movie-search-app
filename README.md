@@ -19,7 +19,7 @@ This is a simple web application that allows users to find information about mov
 • Utilizes the OMDb API
 
 
-**Usage**
+**Usage**  
 1. Host your cloned repository on your web server or open index.html in your web browser.
 2. Enter the movie title in the input field and press the "Search" button, or simply press the "Enter" key.
 3. Retrieve complete information about the movie.
